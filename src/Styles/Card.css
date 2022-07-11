@@ -2,7 +2,10 @@
     height: 200px;
     width: 200px;
     border: 1px solid black;
-    margin: 0.5rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    border-radius: 1rem;
 }
 
 .image-div{
@@ -12,4 +15,10 @@
 
 .image-div img{
     height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.card-text{
+    font-weight: bold;
 }

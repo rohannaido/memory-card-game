@@ -20,7 +20,7 @@ header h1{
   text-align: left;
 }
 
-main{
+main > div{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
