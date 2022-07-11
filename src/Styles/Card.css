@@ -1,0 +1,15 @@
+.card-div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 0.5rem;
+}
+
+.image-div{
+    height: 80%;
+    width: 100%;
+}
+
+.image-div img{
+    height: 100%;
+}
